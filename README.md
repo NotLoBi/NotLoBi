@@ -9,22 +9,22 @@
 
 <hr>
 <div align="left">
-  <p>- <strong>OSINT CHEAT SHEETS</strong></p>
-  <p>- <strong>SOCMINT / PEOPLE RELATED</strong>
-  <p>- <strong>IMAGES ANALYSIS</strong></p>
-  <p>- <strong>GEOINT / IMINT</strong></p>
-  <p>- <strong>RECON</strong></p>
-  <p>- <strong>INTERNET / SEARCH ENGINES</strong></p>
-  <p>- <strong>CIPHERS</strong>
-  <p>- <strong>ANONYMISATION</strong>
-  <p>- <strong>COMPLETE TOOLS</strong></p>
-  <p>- <strong>TRAINING</strong></p>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" />&ensp;<strong>OSINT CHEAT SHEETS</strong></p>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="Bust in Silhouette" width="25" height="25" />&ensp;<strong>SOCMINT / PEOPLE RELATED</strong>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" />&ensp;<strong>IMAGES ANALYSIS</strong></p>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" />&ensp;<strong>GEOINT / IMINT</strong></p>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" />&ensp;<strong>RECON</strong></p>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" />&ensp;<strong>INTERNET / SEARCH ENGINES</strong>p>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" />&ensp;<strong>CIPHERS</strong>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="25" height="25" />&ensp;<strong>ANONYMISATION</strong>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />&ensp;<strong>COMPLETE TOOLS</strong></p>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />&ensp;<strong>TRAINING</strong></p>
 </div>
 <hr>
 
 <br>
 
-## OSINT CHEAT SHEETS
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" />&ensp;OSINT CHEAT SHEETS
 
   - OSINT Framework : https://osintframework.com/
   - Ultime OSINT Collection : https://start.me/p/DPYPMz/the-ultimate-osint-collection
@@ -32,7 +32,7 @@
       
 <br>
 
-## SOCMINT / PEOPLE RELATED
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="Bust in Silhouette" width="25" height="25" />&ensp;SOCMINT / PEOPLE RELATED
 
   - <i>SOCMINT</i> 
     - Search for a person complete information : https://search.0t.rocks/
@@ -66,7 +66,7 @@
     
 <br>
 
-## IMAGES ANALYSIS
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" />&ensp;IMAGES ANALYSIS
 
   - <i>REVERSE SEARCHES</i>
     - Google Lens / Reverse Google Search (search for image apparition on the Internet) : https://lens.google.com/
@@ -83,7 +83,7 @@
 
 <br>
 
-## GEOINT / IMINT
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" />&ensp;GEOINT / IMINT
 
   - <i>WEATHER / ENVIRONMENT</i>
     - Ventusky (weather map) : https://www.ventusky.com/
@@ -151,7 +151,7 @@
   
 <br>
 
-## RECON
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" />&ensp;RECON
 
   - <i>DEVICES SEARCH ENGINE</i>
     - Shodan : https://www.shodan.io/
@@ -172,7 +172,7 @@
 
 <br>
 
-## INTERNET / SEARCH ENGINES
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" />&ensp;INTERNET / SEARCH ENGINES
 
   - <i>SEARCH ENGINES</i>
     - Google : https://google.com/
@@ -194,7 +194,7 @@
 
 <br> 
 
-## CIPHERS
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" />&ensp;CIPHERS
 
   - <i>CIPHER IDENTIFIER</i>
     - Dcode : https://www.dcode.fr/identification-chiffrement
@@ -206,7 +206,7 @@
 
 <br>
 
-## ANONYMISATION
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="25" height="25" />&ensp;ANONYMISATION
 
   - TOR Browser : https://www.torproject.org/
   - Privoxy : https://www.privoxy.org/
@@ -214,7 +214,7 @@
 
 <br>
 
-## COMPLETE TOOLS 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />&ensp;COMPLETE TOOLS 
 
   - recon-ng : https://github.com/lanmaster53/recon-ng
   - spiderfoot : https://github.com/smicallef/spiderfoot
@@ -225,7 +225,7 @@
 
 <br>
 
-## TRAINING 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />&ensp;TRAINING 
 
   - OZINT : https://ozint.eu/
   - Challenge-OSINT : https://ctf.challenge-osint.fr/

@@ -163,7 +163,7 @@
     - RedHawk (all in one tool for Information Gathering and Vulnerability Scanning) : https://github.com/Tuhinshubhra/RED_HAWK
     - SecretFinder (discover sensitive data like apikeys, accesstoken, authorizations, jwt,..etc.) : https://github.com/m4ll0k/SecretFinder
     - TheHarvester (determine a domain's external threat landscape) : https://github.com/laramies/theHarvester
-    - DNSRecon ( DNS reconnaissance, enumeration, and information gathering) - https://github.com/darkoperator/dnsrecon
+    - DNSRecon ( DNS reconnaissance, enumeration, and information gathering) : https://github.com/darkoperator/dnsrecon
    
   - <i>ENUMERATION</i>
     - DIRB (Web Content Scanner) : https://dirb.sourceforge.net/

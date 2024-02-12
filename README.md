@@ -198,6 +198,7 @@
 
   - <i>CIPHER IDENTIFIER</i>
     - Dcode : https://www.dcode.fr/identification-chiffrement
+    - Dcode : https://www.dcode.fr/hash-identifier
 
   - <i>DECIPHER</i>
     - Dcode : https://www.dcode.fr/

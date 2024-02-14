@@ -59,10 +59,13 @@
     - Find usernames in leaked databases : https://leakcheck.io/
     - Find mails in leaked databases : https://haveibeenpwned.com/
    
+  - <i>Deep/Dark Web</i>
+    - DarkDump (query the deeep web) : https://github.com/josh0xA/darkdump
+    -  OnionSearch (scrape url's from the .onion search engines) : https://github.com/megadose/OnionSearch
+
   - <i>OTHERS</i>
     -  IKnowWhatYouDownload (torrent downloads and distributions for an IP address) : https://iknowwhatyoudownload.com/en/peer/
     -  UnlistedVideos (find unlisted YouTube videos) : https://unlistedvideos.com/indexm.html
-    -  OnionSearch (scrape url's from the .onion search engines) : https://github.com/megadose/OnionSearch
     
 <br>
 

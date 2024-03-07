@@ -156,10 +156,11 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" />&ensp;RECON
 
-  - <i>DEVICES SEARCH ENGINE</i>
+  - <i>INFORMATION GATHERING</i>
     - Shodan : https://www.shodan.io/
     - ZoomEye : https://www.zoomeye.org
     - Netlas : https://netlas.io/
+    - GreyNoise : https://viz.greynoise.io/
 
   - <i>SCANNERS</i>
     - DracNMAP (gathering information with nmap help) : https://github.com/Screetsec/Dracnmap

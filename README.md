@@ -160,6 +160,7 @@
     - Shodan : https://www.shodan.io/
     - ZoomEye : https://www.zoomeye.org
     - Netlas : https://netlas.io/
+    - Censys : https://search.censys.io/
     - GreyNoise : https://viz.greynoise.io/
     - DNSDumpster : https://dnsdumpster.com/
 

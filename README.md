@@ -147,7 +147,7 @@
     - DeepStateMap (RU/UKR live war map - 2024) : https://deepstatemap.live/
     - Kolossal DeepStateMap (live war map) : https://kolossal.deepstateua.tech/
 
-  - <i>OTHER</i>
+  - <i>OTHERS</i>
     - PastVu (locate old or historical photos) : https://pastvu.com/
     - BirdHunt (find tweets based on a location) : https://birdhunt.co/
     - EBird (tracking the birds you see across North America) : https://ebird.org/explore
@@ -187,13 +187,17 @@
     - Cached Pages (get cached page of any URL) : http://www.cachedpages.com/
     - Ahmia (search hidden services on the Tor network) : https://ahmia.fi/
    
-  - <i> DORKS & BANGS</i>
+  - <i>DORKS & BANGS</i>
     - Dorks Builder : https://dorks.faisalahmed.me/
     - DuckDuckGo Bang Guide : https://duckduckgo.com/bangs?q=!
     - Dorks Guide : https://github.com/redduxi/Google-Dorks-Resources
     - Google Operators : https://support.google.com/vault/answer/2474474?hl=en#zippy=%2Cgoogle-voice-search-operators
     - Google URL Modifiers & Operators : https://supple.com.au/tools/google-advance-search-operators/
     - GHDB (GoogleHackingDatabase) : https://www.exploit-db.com/google-hacking-database
+   
+  - <i>OTHERS</i>
+    - CyberMap : https://cybermap.kaspersky.com/
+    - CyberMapStats : https://cybermap.kaspersky.com/stats
 
 <br> 
 

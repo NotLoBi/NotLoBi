@@ -164,6 +164,7 @@
     - Censys : https://search.censys.io/
     - GreyNoise : https://viz.greynoise.io/
     - DNSDumpster : https://dnsdumpster.com/
+    - Leakix : https://leakix.net
 
   - <i>SCANNERS</i>
     - DracNMAP (gathering information with nmap help) : https://github.com/Screetsec/Dracnmap

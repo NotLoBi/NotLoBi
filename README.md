@@ -14,7 +14,8 @@
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="Identification Card" width="25" height="25" />&ensp;<strong>IMAGES ANALYSIS</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" />&ensp;<strong>GEOINT / IMINT</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" />&ensp;<strong>RECON</strong></p>
-  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" />&ensp;<strong>INTERNET / SEARCH ENGINES</strong>p>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" />&ensp;<strong>INTERNET / SEARCH ENGINES</strong></p>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" />&ensp;<strong>CRYPTO / ONCHAIN ANALYSIS</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" />&ensp;<strong>CIPHERS</strong>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="25" height="25" />&ensp;<strong>ANONYMISATION</strong>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />&ensp;<strong>COMPLETE TOOLS</strong></p>
@@ -205,6 +206,24 @@
     - CyberMapStats : https://cybermap.kaspersky.com/stats
 
 <br> 
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" />&ensp;CRYPTO / ONCHAIN ANALYSIS
+
+  - <i>ONCHAIN ANALYSIS</i>
+    - OkLink : https://www.oklink.com/
+    - Arkham : https://platform.arkhamintelligence.com/
+    - Tenderly : https://dashboard.tenderly.co/explorer/
+    - ETHTective : https://ethtective.com/
+    - BreadCrumbs : https://www.breadcrumbs.app/
+    - Bloxy : https://bloxy.info/
+    - BlockPath (BTC only) : https://blockpath.com/
+    - 0xScope : https://scan.0xscope.com/
+
+  - <i>ONCHAIN ANALYSIS FRAMEWORKS</i>
+    - TX Analysis tools : https://graph.org/TX-Analysis-tools-04-19
+    - OffcierCia - OnChain Investigations Tools : https://github.com/OffcierCia/On-Chain-Investigations-Tools-List?tab=readme-ov-file
+
+<br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" />&ensp;CIPHERS
 

@@ -58,6 +58,7 @@
     - Find usernames, phones, mails and names in leaked databases : https://leak-lookup.com/
     - Find mails, phones, usernames, IC/ID/SSN, passport number : https://9ghz.com/
     - Find usernames or mails in leaked databases : https://breachdirectory.org/
+    - Find mails or phones in leaked databases : https://espysys.com
     - Find usernames in leaked databases : https://leakcheck.io/
     - Find mails in leaked databases : https://haveibeenpwned.com/
    

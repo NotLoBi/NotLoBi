@@ -15,6 +15,7 @@
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" />&ensp;<strong>GEOINT / IMINT</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" />&ensp;<strong>RECON</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" />&ensp;<strong>INTERNET / SEARCH ENGINES</strong></p>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pill.png" alt="Pill" width="25" height="25" />&ensp;<strong>PHARMA / DRUG INFORMATION</strong></p>  
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" />&ensp;<strong>CRYPTO / ONCHAIN ANALYSIS</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" />&ensp;<strong>CIPHERS</strong>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="25" height="25" />&ensp;<strong>ANONYMISATION</strong>
@@ -37,6 +38,8 @@
 
   - <i>SOCMINT</i> 
     - Search for a person complete information : https://search.0t.rocks/
+    - Search for a person complete information : https://thatsthem.com
+    - Doxbin : https://doxbin.org 
     - Maigret (find username on multiple medias) : https://github.com/soxoj/maigret/
     - Sherlock (find username on multiple medias) : https://github.com/sherlock-project/sherlock
     - PRUDE (find person/username appearances on multiple medias) : https://github.com/NotLoBi/Prude/
@@ -47,11 +50,21 @@
     - Epeios (find mails, ID's and phone appearences) : https://epieos.com/
     - holehe (search an email address on multiple social medias) : https://github.com/megadose/holehe
     - Find Duolingo user info : https://www.duolingo.com/2017-06-30/users?username={USERNAME_HERE}
+    - Find Tinder user profile : https://www.gotinder.com/@{USERNAME_HERE}
     - Find Steam user info : https://steamdb.info/calculator/
     - GamerTag info lookup : https://tracker.gg/
+    - NameMC (minecraft user lookup) : https://namemc.com/
+    - Roblox OSINT tool : https://github.com/phishontop/bloxsint
     - Find GitHub user info : https://api.github.com/users/{USERNAME_HERE}
     - iknowwhereyourcatlives (locate Instagram posts with the #cat) : https://iknowwhereyourcatlives.com/
     - hunter.io (email finder tool, useful for company employees recon : https://hunter.io/
+    - Skymem (email finder tool) ! https://www.skymem.info
+    - Scribd VPDFS (free scribd document download) : https://scribd.vpdfs.com/
+    - Namechk (username checker) : https://namechk.com/
+    - Ifu (username checker) : https://ifu.app
+    - Usersearch (username checker) : https://usersearch.org
+    - Check usernames (username checker) : https://checkusernames.com/
+    - Instant usernmae (username checker) : https://instantusername.com
       
   - <i>BREACH HUNTERS</i> 
     - h8mail (mails and passwords breach hunter) : https://github.com/khast3x/h8mail
@@ -61,10 +74,27 @@
     - Find mails or phones in leaked databases : https://espysys.com
     - Find usernames in leaked databases : https://leakcheck.io/
     - Find mails in leaked databases : https://haveibeenpwned.com/
+    - Compromised account verifier : https://hackcheck.io
+    - Breached databases list : https://nuclearleaks.com/
+    - Compromised emails : https://ashley.cynic.al/
    
   - <i>DEEP/DARK WEB</i>
     - DarkDump (query the deeep web) : https://github.com/josh0xA/darkdump
-    -  OnionSearch (scrape url's from the .onion search engines) : https://github.com/megadose/OnionSearch
+    - OnionSearch (scrape url's from the .onion search engines) : https://github.com/megadose/OnionSearch
+  
+  - <i>BANKING</i>
+    - BinCodes (credit card checker) : https://www.bincodes.com/creditcard-checker/
+    - DNS Checker (credit card checker) : https://dnschecker.org/credit-card-validator.php
+    - BinList (bank BIN lookup) : https://binlist.net
+
+  - <i>SOCIAL SECURITY</i>
+    - SSN Check (SSN lookup tools) : https://www.ssn-check.org
+
+  - <i>VEHICLES</i>
+    - DLCheck (american driving license check) : https://services.flhsmv.gov/DLCheck/
+    - Evaluer chauffeur (french drivers evaluation) : https://evaluer-chauffeur.fr/
+    - Paruvendu (vehicle information from french plates) : https://www.paruvendu.fr/fiches-techniques-auto/
+    - American licence plate checker : https://www.faxvin.com/license-plate-lookup/owner
 
   - <i>OTHERS</i>
     -  IKnowWhatYouDownload (torrent downloads and distributions for an IP address) : https://iknowwhatyoudownload.com/en/peer/
@@ -167,6 +197,11 @@
     - GreyNoise : https://viz.greynoise.io/
     - DNSDumpster : https://dnsdumpster.com/
     - Leakix : https://leakix.net
+    - MXToolBox : http://mxtoolbox.com
+    - DomainTools : https://whois.domaintools.com/
+    - Domain complete informations : https://domainhelp.com/
+    - VirusTotal : https://www.virustotal.com/
+    - URLScan : https://urlscan.io/search
 
   - <i>SCANNERS</i>
     - DracNMAP (gathering information with nmap help) : https://github.com/Screetsec/Dracnmap
@@ -179,6 +214,23 @@
     - DIRB (Web Content Scanner) : https://dirb.sourceforge.net/
     - Breacher (find admin login pages and EAR vulnerabilites) : https://github.com/s0md3v/Breacher
     - OneDriveEnumUser (enumerate possible users of a OneDrive tenant) : https://github.com/nyxgeek/onedrive_user_enum
+
+  - <i>CREDENTIALS</i>
+    - Constructors default passwords : https://cirt.net/passwords
+    - Constructors default passwords : https://default-password.info
+    - Constructors default passwords : https://datarecovery.com/rd/default-passwords/
+    - Wordlists database : https://wiki.skullsecurity.org/index.php?title=Passwords
+    - Seclist wordlist database : https://github.com/danielmiessler/SecLists/tree/master/Passwords
+    - Seclist leaked databases passwords : https://github.com/danielmiessler/SecLists/tree/master/Passwords/Leaked-Databases
+   
+  - <i>PASTEBINS</i>
+    - Pastebin : https://pastebin.com/
+    - Hastebin : https://hastebin.com/
+    - 0Bin : https://0bin.net
+    - Debian PasteZone : https://Paste.debian.net
+    - CentOS Paste : https://paste.centos.org/
+    - KDE Paste : https://Paste.kde.org
+    - Private Bin : https://privatebin.net/ 
 
 <br>
 
@@ -205,6 +257,16 @@
   - <i>OTHERS</i>
     - CyberMap : https://cybermap.kaspersky.com/
     - CyberMapStats : https://cybermap.kaspersky.com/stats
+   
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pill.png" alt="Pill" width="25" height="25" />&ensp;PHARMA / DRUG INFORMATION
+
+  - <i>DRUG IDENTIFIERS</i>
+    - WebMD (pill identification) : https://www.webmd.com/pill-identification/
+    - National Library of Medicine : https://pubmed.ncbi.nlm.nih.gov
+    - Drugs.com (prescription drug info) : https://www.drugs.com/
+    - DrugBank (drugs knowledge base) : https://go.drugbank.com
 
 <br> 
 
@@ -231,6 +293,7 @@
   - <i>CIPHER IDENTIFIER</i>
     - Dcode : https://www.dcode.fr/identification-chiffrement
     - Dcode : https://www.dcode.fr/hash-identifier
+    - Hashes : https://hashes.com/en/tools/hash_identifier
 
   - <i>DECIPHER</i>
     - Dcode : https://www.dcode.fr/
@@ -255,6 +318,7 @@
   - sn0int : https://github.com/kpcyrd/sn0int
   - reconspider : https://github.com/bhavsec/reconspider
   - reconFTW : https://github.com/six2dez/reconftw
+  - osint.sh : https://namechk.com/
 
 <br>
 

@@ -230,7 +230,12 @@
     - Debian PasteZone : https://Paste.debian.net
     - CentOS Paste : https://paste.centos.org/
     - KDE Paste : https://Paste.kde.org
-    - Private Bin : https://privatebin.net/ 
+    - Private Bin : https://privatebin.net/
+   
+  - <i>CORPORATE</i>
+    - Open Corporate (company papers) : https://opencorporates.com/
+    - GLEIF (company information recon) : https://search.gleif.org
+    - OffShoreLeaks (offshore papers database) : https://offshoreleaks.icij.org 
 
 <br>
 

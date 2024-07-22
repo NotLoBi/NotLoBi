@@ -239,7 +239,8 @@
   - <i>CORPORATE</i>
     - Open Corporate (company papers) : https://opencorporates.com/
     - GLEIF (company information recon) : https://search.gleif.org
-    - OffShoreLeaks (offshore papers database) : https://offshoreleaks.icij.org 
+    - OffShoreLeaks (offshore papers database) : https://offshoreleaks.icij.org
+    - Papers (company papers) : https://www.pappers.fr
 
 <br>
 

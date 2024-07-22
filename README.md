@@ -52,6 +52,7 @@
     - Find Duolingo user info : https://www.duolingo.com/2017-06-30/users?username={USERNAME_HERE}
     - Find Tinder user profile : https://www.gotinder.com/@{USERNAME_HERE}
     - Find Steam user info : https://steamdb.info/calculator/
+    - Find Vinted user info : https://www.vinted.fr/api/v2/users/{USERID_HERE}
     - GamerTag info lookup : https://tracker.gg/
     - NameMC (minecraft user lookup) : https://namemc.com/
     - Roblox OSINT tool : https://github.com/phishontop/bloxsint

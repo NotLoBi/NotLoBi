@@ -65,7 +65,7 @@
     - Ifu (username checker) : https://ifu.app
     - Usersearch (username checker) : https://usersearch.org
     - Check usernames (username checker) : https://checkusernames.com/
-    - Instant usernmae (username checker) : https://instantusername.com
+    - Instant username (username checker) : https://instantusername.com
       
   - <i>BREACH HUNTERS</i> 
     - h8mail (mails and passwords breach hunter) : https://github.com/khast3x/h8mail
@@ -176,6 +176,7 @@
     - GPSJam (live map of jamming levels around the world) : https://gpsjam.org/
     - Explorer (live connectivity and censorship test) : https://explorer.ooni.org/
     - Wigle (geolocation of WiFi access points) : https://wigle.net/
+    - TOR Map (Tor nodes map) : https://tormap.org/
 
   - <i>MILITARY</i>
     - ADS-B (military air traffic live) : https://www.ads-b.nl/

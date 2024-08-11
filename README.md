@@ -330,6 +330,7 @@
   - reconspider : https://github.com/bhavsec/reconspider
   - reconFTW : https://github.com/six2dez/reconftw
   - osint.sh : https://namechk.com/
+  - IFU App (OSINT Losena Ltd.) : https://ifu.app/
 
 <br>
 

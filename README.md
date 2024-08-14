@@ -15,6 +15,7 @@
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" />&ensp;<strong>GEOINT / IMINT</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" />&ensp;<strong>RECON</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" />&ensp;<strong>INTERNET / SEARCH ENGINES</strong></p>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png" alt="Pirate Flag" width="25" height="25" />&ensp;<strong>DEEP / DARK NET</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pill.png" alt="Pill" width="25" height="25" />&ensp;<strong>PHARMA / DRUG INFORMATION</strong></p>  
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" />&ensp;<strong>CRYPTO / ONCHAIN ANALYSIS</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" />&ensp;<strong>CIPHERS</strong>
@@ -269,6 +270,38 @@
     - CyberMap : https://cybermap.kaspersky.com/
     - CyberMapStats : https://cybermap.kaspersky.com/stats
    
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png" alt="Pirate Flag" width="25" height="25" />&ensp;DEEP / DARK NET
+
+- <i>CHEAT SHEETS</i>
+  - 0xSojalSec cheat sheet : https://github.com/0xSojalSec/read-dark-web
+
+- <i>SEARCH ENGINES</i>
+  - Ahmia : http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
+  - OnionIndex : http://oniondxjxs2mzjkbz7ldlflenh6huksestjsisc3usxht3wqgk6a62yd.onion/
+  - OnionLand : http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/
+  - TorDex : http://tordexu73joywapk2txdr54jed4imqledpcvcuf75qsas2gwdgksvnyd.onion/
+  - Darkon : http://darkon6d23lmnx3ttnenhbjkthfdsxthimxvoimwyt43yvxsjqb3read.onion/
+  - OnDex : http://ondexcyirrwd4vvvpylav4r6dojnxgckj7rwywcklsz7cjrm5ush4fyd.onion/
+  - Tor66 : http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/
+  - OnionSS : http://3fzh7yuupdfyjhwt3ugzqqof6ulbcl27ecev33knxe3u7goi3vfn2qqd.onion/oss/
+  - DuckDuckGo : https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/
+  - Haystak : http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/
+
+- <i>HIDDEN WIKI</i>
+  - The Hidden Wiki (clearnet) : https://thehiddenwiki.org/
+  - The Hidden Wiki 2 (clearnet) : https://thehidden2.wiki/
+  - Trust Wiki : http://wiki6dtqpuvwtc5hopuj33eeavwa6sik7sy57cor35chkx5nrbmmolqd.onion/
+  - DarkDir : http://l7vh56hxm3t4tzy75nxzducszppgi45fyx2wy6chujxb2rhy7o5r62ad.onion/
+  - Deep Web News : http://zdacwobtzwp2xgedcv2besrckdq76um5xdyvaqcedatzqxbjewamheyd.onion/
+  - Deep Links Dump : http://t3g5mz7kgivhgzua64vxmu7ieyyoyzgd423itqjortjhh64lcvspyayd.onion/
+  - Original Hidden Wiki : http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page
+  - VCS Onion Links : http://hgzqgqunlejgxruvcthlpk3pywgkci3kkubhnvlv2rgveusz3n6qarad.onion/
+ 
+- <i>CHECK UPTIME</i>
+  - Dark.fail : http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion/ 
+
 <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pill.png" alt="Pill" width="25" height="25" />&ensp;PHARMA / DRUG INFORMATION

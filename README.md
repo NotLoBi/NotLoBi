@@ -32,6 +32,7 @@
   - OSINT Framework : https://osintframework.com/
   - Ultime OSINT Collection : https://start.me/p/DPYPMz/the-ultimate-osint-collection
   - OSINT Tools Collection : https://github.com/cipher387/osint_stuff_tool_collection
+  - NSCO Tools Collection : https://start.me/p/BnrMKd/01-ncso
       
 <br>
 
@@ -351,6 +352,8 @@
   - TOR Browser : https://www.torproject.org/
   - Privoxy : https://www.privoxy.org/
   - Proxychains : https://github.com/rofl0r/proxychains-ng
+  - Quackr (temporary phone) : https://quackr.io
+  - Temp-mail : https://temp-mail.org
 
 <br>
 

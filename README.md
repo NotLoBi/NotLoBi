@@ -209,6 +209,12 @@
     - Domain complete informations : https://domainhelp.com/
     - VirusTotal : https://www.virustotal.com/
     - URLScan : https://urlscan.io/search
+    - FOFA : http://fofa.info
+    - PublicWWW : http://publicwww.com
+    - CRT http://crt.sh
+    - PulseDrive : http://pulsedive.com
+    - SearchCode (Code search) : http://searchcode.com
+    - GrepApp (Code search): http://grep.app
 
   - <i>SCANNERS</i>
     - DracNMAP (gathering information with nmap help) : https://github.com/Screetsec/Dracnmap

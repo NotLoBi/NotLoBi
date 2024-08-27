@@ -22,6 +22,8 @@
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="25" height="25" />&ensp;<strong>ANONYMISATION</strong>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />&ensp;<strong>COMPLETE TOOLS</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />&ensp;<strong>TRAINING</strong></p>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="25" height="25" />&ensp;<strong>DISCUSSIONS / CHANNELS</strong></p>
+  
 </div>
 <hr>
 
@@ -151,6 +153,13 @@
     - The Shipping Database (comprehensive maritime vessel database) : https://theshippingdatabase.com/
     - Submarine Cable Map : https://www.submarinecablemap.com/
     - Submarine Tracker : https://www.marinevesseltraffic.com/submarine-vessels-tracking-map
+    - Track ships, equipment, brokers… : https://www.maritime-database.com/
+    - Ports database : https://www.myshiptracking.com/ports
+    - Ports database : http://portfocus.com/
+    - Ships imports, buyers, seller : https://www.volza.com/global-trade-data/
+    - OpenseaMap : https://map.openseamap.org/
+    - Container Tracking : https://www.bic-code.org/
+    - Bill number & container tracking : https://www.bltracking.com/
 
   - <i>TRAINS</i>
     - AmTrak (register of all rail journeys) : https://juckins.net/amtrak_status/archive/html/history.php
@@ -360,6 +369,8 @@
   - Proxychains : https://github.com/rofl0r/proxychains-ng
   - Quackr (temporary phone) : https://quackr.io
   - Temp-mail : https://temp-mail.org
+  - I2P Network : https://geti2p.net/en/
+  - Introduction to I2P Network : https://retro64xyz.gitlab.io/presentations/2018/03/13/introduction-to-i2p/#how-to-install
 
 <br>
 
@@ -385,5 +396,12 @@
   - HackTheBox (OSINT rooms) : https://www.hackthebox.com/
   - GeoGuessr : https://www.geoguessr.com/
   - Sourcing Games : https://sourcing.games/
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="25" height="25" />&ensp;DISCUSSIONS / CHANNELS
+
+  - OSINT Losena : https://t.me/OsintLosena
+  - Networking cheat sheets and Telegram channels : https://github.com/woohung/links-networking
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:080707,50:1c1c1c,100:080707&section=footer" style="max-width: 100%;">

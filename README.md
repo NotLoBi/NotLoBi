@@ -121,8 +121,8 @@
     - Steghide / Stegcraker (steganography brute-force utility) : https://github.com/Paradoxis/StegCracker
     - Exiftool (reading and writing meta information in files) : https://exiftool.org/
    
-  - <i>UPSCALLING</i>
-    - ILoveIMG (x2-x4 upscalling) : https://www.iloveimg.com/upscale-image?ref=artturijalli
+  - <i>UPSCALING</i>
+    - ILoveIMG (x2-x4 upscaling) : https://www.iloveimg.com/upscale-image?ref=artturijalli
 
 <br>
 

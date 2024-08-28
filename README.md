@@ -143,6 +143,7 @@
   - <i>AVIATION</i>
     - Skyvector (live map of private flights) : https://skyvector.com/
     - FlightConnection (check the direct flights available at each airport) : https://www.flightconnections.com/
+    - FlightAware (check public flights info) : https://www.flightaware.com
     - Crashes database from 2008 to 2021 : https://data.ntsb.gov/carol-main-public/basic-search
     - RZJets (civil and private aviation database) : https://rzjets.net/
     - ADS-B Exchange (all flights live) : https://globe.adsbexchange.com/

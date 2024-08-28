@@ -42,7 +42,6 @@
 
   - <i>SOCMINT</i>
     - Ifu (affiliated link) (username checker) : https://ifu.app?ap=3313474116
-    - Search for a person complete information : https://search.0t.rocks/
     - Search for a person complete information : https://thatsthem.com
     - Doxbin : https://doxbin.org 
     - Maigret (find username on multiple medias) : https://github.com/soxoj/maigret/

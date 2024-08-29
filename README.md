@@ -221,7 +221,7 @@
     - FOFA : http://fofa.info
     - PublicWWW : http://publicwww.com
     - CRT http://crt.sh
-    - PulseDrive : http://pulsedive.com
+    - PulseDive : http://pulsedive.com
     - SearchCode (Code search) : http://searchcode.com
     - GrepApp (Code search): http://grep.app
 
@@ -384,6 +384,7 @@
   - reconFTW : https://github.com/six2dez/reconftw
   - osint.sh : https://namechk.com/
   - IFU App (affiliated link) (OSINT Losena Ltd.) : https://ifu.app?ap=3313474116
+  - synapsint : https://synapsint.com/
 
 <br>
 

@@ -409,4 +409,18 @@
   - CyberSecurity Advice Community (Reddit) : https://www.reddit.com/r/CyberSecurityAdvice/
   - Hacking Community (Reddit) : https://www.reddit.com/r/hacking/
 
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+  <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="25" height="25" /> Thanks to all collaborators ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Black%20Heart.png" alt="Black Heart" width="25" height="25" /></i>
+  <br>
+  <i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />Feel free to share your tools ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /><br>
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:080707,50:1c1c1c,100:080707&section=footer" style="max-width: 100%;">

@@ -35,6 +35,7 @@
   - Ultime OSINT Collection : https://start.me/p/DPYPMz/the-ultimate-osint-collection
   - OSINT Tools Collection : https://github.com/cipher387/osint_stuff_tool_collection
   - NSCO Tools Collection : https://start.me/p/BnrMKd/01-ncso
+  - I-Intelligence Guide : https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf
       
 <br>
 

@@ -42,7 +42,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" alt="Bust in Silhouette" width="25" height="25" />&ensp;SOCMINT / PEOPLE RELATED
 
   - <i>SOCMINT</i>
-    - Ifu (affiliated link) (username checker) : https://ifu.app?ap=3313474116
+    - Ifu (username checker) : https://ifu.app
     - Search for a person complete information : https://thatsthem.com
     - Doxbin : https://doxbin.org 
     - Maigret (find username on multiple medias) : https://github.com/soxoj/maigret/
@@ -384,7 +384,7 @@
   - reconspider : https://github.com/bhavsec/reconspider
   - reconFTW : https://github.com/six2dez/reconftw
   - osint.sh : https://namechk.com/
-  - IFU App (affiliated link) (OSINT Losena Ltd.) : https://ifu.app?ap=3313474116
+  - IFU App (OSINT Losena Ltd.) : https://ifu.app
   - synapsint : https://synapsint.com/
 
 <br>

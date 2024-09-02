@@ -247,11 +247,8 @@
     - Seclist leaked databases passwords : https://github.com/danielmiessler/SecLists/tree/master/Passwords/Leaked-Databases
    
   - <i>PASTEBINS</i>
-    - Pastebin : https://pastebin.com/
-    - Hastebin : https://hastebin.com/
+    - awesome-pastebins : https://github.com/lorien/awesome-pastebins
     - 0Bin : https://0bin.net
-    - Debian PasteZone : https://Paste.debian.net
-    - CentOS Paste : https://paste.centos.org/
     - KDE Paste : https://Paste.kde.org
     - Private Bin : https://privatebin.net/
    

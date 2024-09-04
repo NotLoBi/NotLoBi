@@ -79,6 +79,7 @@
     - Find mails or phones in leaked databases : https://espysys.com
     - Find usernames in leaked databases : https://leakcheck.io/
     - Find mails in leaked databases : https://haveibeenpwned.com/
+    - Find mails, usernames or domains compromised by Infostealer malware : https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
     - Compromised account verifier : https://hackcheck.io
     - Breached databases list : https://nuclearleaks.com/
     - Compromised emails : https://ashley.cynic.al/

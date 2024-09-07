@@ -18,6 +18,7 @@
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png" alt="Pirate Flag" width="25" height="25" />&ensp;<strong>DEEP / DARK NET</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pill.png" alt="Pill" width="25" height="25" />&ensp;<strong>PHARMA / DRUG INFORMATION</strong></p>  
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" />&ensp;<strong>CRYPTO / ONCHAIN ANALYSIS</strong></p>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dollar%20Banknote.png" alt="Dollar Banknote" width="25" height="25" />&ensp;<strong>FINANCIAL</strong></p>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Locked with Key" width="25" height="25" />&ensp;<strong>CIPHERS</strong>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="25" height="25" />&ensp;<strong>ANONYMISATION</strong>
   <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />&ensp;<strong>COMPLETE TOOLS</strong></p>
@@ -34,8 +35,12 @@
   - OSINT Framework : https://osintframework.com/
   - Ultime OSINT Collection : https://start.me/p/DPYPMz/the-ultimate-osint-collection
   - OSINT Tools Collection : https://github.com/cipher387/osint_stuff_tool_collection
+  - OSINT Tools Collection : https://start.me/p/rxeRqr/aml-toolbox
+  - OSINT Tools Collection : https://www.aware-online.com/en/osint-tools/
   - NSCO Tools Collection : https://start.me/p/BnrMKd/01-ncso
   - I-Intelligence Guide : https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf
+  - OSINT Steps Guide : https://yoga.myosint.training
+  - OSINT Methods Collection : https://github.com/sinwindie/OSINT
       
 <br>
 
@@ -258,6 +263,9 @@
     - GLEIF (company information recon) : https://search.gleif.org
     - OffShoreLeaks (offshore papers database) : https://offshoreleaks.icij.org
     - Papers (company papers) : https://www.pappers.fr
+    - EU Business registers : https://e-justice.europa.eu/content_business_registers_in_member_states-106-en.do
+    - Companies database : https://www.aihitdata.com/search/companies
+    - Organizations OSINT : https://traversals.com/blog/osint-tools/
 
 <br>
 
@@ -272,6 +280,7 @@
     - Sogou (chinese search engine) : https://www.sogou.com/
     - Cached Pages (get cached page of any URL) : http://www.cachedpages.com/
     - Ahmia (search hidden services on the Tor network) : https://ahmia.fi/
+    - OCCRP Search : https://data.occrp.org/
    
   - <i>DORKS & BANGS</i>
     - Dorks Builder : https://dorks.faisalahmed.me/
@@ -339,11 +348,19 @@
     - BreadCrumbs : https://www.breadcrumbs.app/
     - Bloxy : https://bloxy.info/
     - BlockPath (BTC only) : https://blockpath.com/
+    - Block and transactions : https://www.aware-online.com/en/osint-tools/cryptocurrency-search-tool/
     - 0xScope : https://scan.0xscope.com/
 
   - <i>ONCHAIN ANALYSIS FRAMEWORKS</i>
     - TX Analysis tools : https://graph.org/TX-Analysis-tools-04-19
     - OffcierCia - OnChain Investigations Tools : https://github.com/OffcierCia/On-Chain-Investigations-Tools-List?tab=readme-ov-file
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dollar%20Banknote.png" alt="Dollar Banknote" width="25" height="25" />&ensp;FINANCIAL
+
+- Financial crime OSINT cheatsheet : https://start.me/p/eknElD/financial-crime-homepage
+- Complete financial OSINT cheatsheet : https://start.me/p/Om7x8L/kyc-aml-fintech
 
 <br>
 

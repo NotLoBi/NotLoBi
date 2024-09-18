@@ -41,6 +41,7 @@
   - I-Intelligence Guide : https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf
   - OSINT Steps Guide : https://yoga.myosint.training
   - OSINT Methods Collection : https://github.com/sinwindie/OSINT
+  - Compass Security Cheat Sheet : https://www.compass-security.com/fileadmin/Research/White_Papers/2017-01_osint_cheat_sheet.pdf
       
 <br>
 
@@ -130,6 +131,10 @@
    
   - <i>UPSCALING</i>
     - ILoveIMG (x2-x4 upscaling) : https://www.iloveimg.com/upscale-image?ref=artturijalli
+  
+  - <i>UNBLURING</i>
+    - Depix : https://github.com/spipm/Depix
+    - Unredacter : https://github.com/bishopfox/unredacter
 
 <br>
 

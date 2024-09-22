@@ -150,6 +150,12 @@
     - Mapnificient (checking areas reachable by public transport) : https://www.mapnificent.net/
     - CalcMaps (plotting tools, calculations and estimates) : https://www.calcmaps.com/
     - Waze : https://www.waze.com/en-GB/live-map/
+    - OpenStreetMap : https://www.openstreetmap.org/
+    - Bing Maps : https://www.bing.com/maps
+    - WayBack world map : https://livingatlas.arcgis.com/wayback/
+    - NASA world view : https://worldview.earthdata.nasa.gov
+    - Sun calculation map : http://suncalc.net/
+    - USA live map : https://usa.liveuamap.com 
    
   - <i>AVIATION</i>
     - Skyvector (live map of private flights) : https://skyvector.com/

@@ -42,6 +42,7 @@
   - OSINT Steps Guide : https://yoga.myosint.training
   - OSINT Methods Collection : https://github.com/sinwindie/OSINT
   - Compass Security Cheat Sheet : https://www.compass-security.com/fileadmin/Research/White_Papers/2017-01_osint_cheat_sheet.pdf
+  - paranoid_ch1ck OSINT Cheat Sheet : https://start.me/p/rxRbpo/cti
       
 <br>
 
@@ -107,6 +108,7 @@
     - Evaluer chauffeur (french drivers evaluation) : https://evaluer-chauffeur.fr/
     - Paruvendu (vehicle information from french plates) : https://www.paruvendu.fr/fiches-techniques-auto/
     - American licence plate checker : https://www.faxvin.com/license-plate-lookup/owner
+    - VIN checker : https://www.vindecoderz.com
 
   - <i>OTHERS</i>
     -  IKnowWhatYouDownload (torrent downloads and distributions for an IP address) : https://iknowwhatyoudownload.com/en/peer/
@@ -206,6 +208,7 @@
     - Explorer (live connectivity and censorship test) : https://explorer.ooni.org/
     - Wigle (geolocation of WiFi access points) : https://wigle.net/
     - TOR Map (Tor nodes map) : https://tormap.org/
+    - Carto Radio : https://www.cartoradio.fr/
 
   - <i>MILITARY</i>
     - ADS-B (military air traffic live) : https://www.ads-b.nl/
@@ -242,13 +245,15 @@
     - PulseDive : http://pulsedive.com
     - SearchCode (Code search) : http://searchcode.com
     - GrepApp (Code search): http://grep.app
+    - Onyphe : https://www.onyphe.io/
 
   - <i>SCANNERS</i>
     - DracNMAP (gathering information with nmap help) : https://github.com/Screetsec/Dracnmap
     - RedHawk (all in one tool for Information Gathering and Vulnerability Scanning) : https://github.com/Tuhinshubhra/RED_HAWK
     - SecretFinder (discover sensitive data like apikeys, accesstoken, authorizations, jwt,..etc.) : https://github.com/m4ll0k/SecretFinder
     - TheHarvester (determine a domain's external threat landscape) : https://github.com/laramies/theHarvester
-    - DNSRecon ( DNS reconnaissance, enumeration, and information gathering) : https://github.com/darkoperator/dnsrecon
+    - DNSRecon (DNS reconnaissance, enumeration, and information gathering) : https://github.com/darkoperator/dnsrecon
+    - AbuseIPdb (find if an IP is blacklisted) : https://www.abuseipdb.com
    
   - <i>ENUMERATION</i>
     - DIRB (Web Content Scanner) : https://dirb.sourceforge.net/
@@ -277,6 +282,7 @@
     - EU Business registers : https://e-justice.europa.eu/content_business_registers_in_member_states-106-en.do
     - Companies database : https://www.aihitdata.com/search/companies
     - Organizations OSINT : https://traversals.com/blog/osint-tools/
+    - Zefix (Swiss business search) : https://zefix.ch/
 
 <br>
 
@@ -304,6 +310,10 @@
   - <i>OTHERS</i>
     - CyberMap : https://cybermap.kaspersky.com/
     - CyberMapStats : https://cybermap.kaspersky.com/stats
+   
+  - <i>ARCHIVES</i>
+    - Wayback Machine : https://web.archive.org
+    - Swiss newspapers archive : https://www.e-newspaperarchives.ch
    
 <br>
 
@@ -335,7 +345,8 @@
   - VCS Onion Links : http://hgzqgqunlejgxruvcthlpk3pywgkci3kkubhnvlv2rgveusz3n6qarad.onion/
  
 - <i>CHECK UPTIME</i>
-  - Dark.fail : http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion/ 
+  - Dark.fail : http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion/
+  - Ooni (internet censorship) : https://explorer.ooni.org/
 
 <br>
 
@@ -361,6 +372,7 @@
     - BlockPath (BTC only) : https://blockpath.com/
     - Block and transactions : https://www.aware-online.com/en/osint-tools/cryptocurrency-search-tool/
     - 0xScope : https://scan.0xscope.com/
+    - ChainAbuse (crypto scams) : https://www.chainabuse.com/reports
 
   - <i>ONCHAIN ANALYSIS FRAMEWORKS</i>
     - TX Analysis tools : https://graph.org/TX-Analysis-tools-04-19
@@ -398,6 +410,11 @@
   - Temp-mail : https://temp-mail.org
   - I2P Network : https://geti2p.net/en/
   - Introduction to I2P Network : https://retro64xyz.gitlab.io/presentations/2018/03/13/introduction-to-i2p/#how-to-install
+  - Session (encrypted messenger) : https://getsession.org
+  - Pretty Good Privacy (PGP) : https://gpgtools.org
+  - GNU Privacy Guard (GnuPG) : https://gnupg.org
+  - Surveillance Self Defense : https://ssd.eff.org/#index
+  - AmIUnique : https://amiunique.org/
 
 <br>
 

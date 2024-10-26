@@ -293,11 +293,25 @@
     - Yandex : https://yandex.com/
     - MetaGer : https://metager.org/
     - DuckDuckGo : https://duckduckgo.com/
-    - Baidu (chinese search engine) : https://www.baidu.com/
-    - Sogou (chinese search engine) : https://www.sogou.com/
+    - Qwant : https://www.qwant.com/
     - Cached Pages (get cached page of any URL) : http://www.cachedpages.com/
     - Ahmia (search hidden services on the Tor network) : https://ahmia.fi/
     - OCCRP Search : https://data.occrp.org/
+    - Cluster Search Engine : https://search.carrot2.org/#/search/web
+    - Search files in open Drives and Clouds : https://www.dedigger.com/
+    - Search files in Buckets : https://buckets.grayhatwarfare.com
+
+  - <i>SEARCH ENGINES BY REGION / COUNTRY </i>
+    - Arabic : http://www.arabo.com/
+    - Bulgaria : http://www.search.bg/
+    - China : https://www.baidu.com/
+    - China : https://www.sogou.com/
+    - China : https://www.so.com
+    - China : https://www.hao123.com
+    - China : https://www.sina.com.cn
+    - China : https://www.qq.com
+    - Czech : https://www.seznam.cz/
+    - Finland : https://www.finna.fi
    
   - <i>DORKS & BANGS</i>
     - Dorks Builder : https://dorks.faisalahmed.me/

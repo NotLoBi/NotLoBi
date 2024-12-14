@@ -43,6 +43,8 @@
   - OSINT Methods Collection : https://github.com/sinwindie/OSINT
   - Compass Security Cheat Sheet : https://www.compass-security.com/fileadmin/Research/White_Papers/2017-01_osint_cheat_sheet.pdf
   - paranoid_ch1ck OSINT Cheat Sheet : https://start.me/p/rxRbpo/cti
+  - CybDetective (small cheatsheet) : https://cybdetective.com/
+  - OSINT Toolkit : https://one-plus.github.io/index.html
       
 <br>
 
@@ -77,6 +79,8 @@
     - Usersearch (username checker) : https://usersearch.org
     - Check usernames (username checker) : https://checkusernames.com/
     - Instant username (username checker) : https://instantusername.com
+    - Find american people complete info : https://www.zabasearch.com/
+    - Find people with name, gmail, username : https://com.lullar.com/
       
   - <i>BREACH HUNTERS</i> 
     - h8mail (mails and passwords breach hunter) : https://github.com/khast3x/h8mail
@@ -90,6 +94,7 @@
     - Compromised account verifier : https://hackcheck.io
     - Breached databases list : https://nuclearleaks.com/
     - Compromised emails : https://ashley.cynic.al/
+    - Find mails in leaked databases : https://namescan.io/freeemailcompromisedcheck
    
   - <i>DEEP/DARK WEB</i>
     - DarkDump (query the deeep web) : https://github.com/josh0xA/darkdump
@@ -144,6 +149,7 @@
 
   - <i>WEATHER / ENVIRONMENT</i>
     - Ventusky (weather map) : https://www.ventusky.com/
+    - Windy (wind mapping) : https://www.windy.com/
 
   - <i>MAPPING TOOLS</i>
     - Google Earth : https://earth.google.com/web/
@@ -157,7 +163,8 @@
     - WayBack world map : https://livingatlas.arcgis.com/wayback/
     - NASA world view : https://worldview.earthdata.nasa.gov
     - Sun calculation map : http://suncalc.net/
-    - USA live map : https://usa.liveuamap.com 
+    - USA live map : https://usa.liveuamap.com
+    - Sentinel Hub : https://apps.sentinel-hub.com/eo-browser/
    
   - <i>AVIATION</i>
     - Skyvector (live map of private flights) : https://skyvector.com/
@@ -198,6 +205,7 @@
     - Skyline Webcam (live cameras on arround the world) : https://www.skylinewebcams.com/webcam.html
     - LiveBeaches (live camera from world beaches) : https://www.livebeaches.com/
     - IPVM Designer (camera angle calculator and installation preview) : https://calculator.ipvm.com/
+    - Pictimo (live cameras on arround the world) : https://www.pictimo.com/
 
   - <i>NETWORKS & ANTENNAS</i>
     - Open CellID (mapping of all telephone antennas) : https://opencellid.org/
@@ -221,6 +229,7 @@
     - PastVu (locate old or historical photos) : https://pastvu.com/
     - BirdHunt (find tweets based on a location) : https://birdhunt.co/
     - EBird (tracking the birds you see across North America) : https://ebird.org/explore
+    - Geomastr (country identification cheat sheet) : https://geomastr.com/
   
 <br>
 
@@ -229,6 +238,7 @@
   - <i>INFORMATION GATHERING</i>
     - Shodan : https://www.shodan.io/
     - ZoomEye : https://www.zoomeye.org
+    - AnyRun : https://intelligence.any.run/
     - Netlas : https://netlas.io/
     - Censys : https://search.censys.io/
     - GreyNoise : https://viz.greynoise.io/
@@ -246,6 +256,9 @@
     - SearchCode (Code search) : http://searchcode.com
     - GrepApp (Code search): http://grep.app
     - Onyphe : https://www.onyphe.io/
+    - BGPView : https://bgpview.io/
+    - IPToolBox : https://www.ipaddressguide.com/
+    - ThreatIntelligence : https://threatintelligenceplatform.com/
 
   - <i>SCANNERS</i>
     - DracNMAP (gathering information with nmap help) : https://github.com/Screetsec/Dracnmap
@@ -254,6 +267,8 @@
     - TheHarvester (determine a domain's external threat landscape) : https://github.com/laramies/theHarvester
     - DNSRecon (DNS reconnaissance, enumeration, and information gathering) : https://github.com/darkoperator/dnsrecon
     - AbuseIPdb (find if an IP is blacklisted) : https://www.abuseipdb.com
+    - Web-Check (website complete scan) : https://web-check.as93.net/
+    - Pentest-Tools (subdomains scans) : https://pentest-tools.com/information-gathering/find-subdomains-of-domain
    
   - <i>ENUMERATION</i>
     - DIRB (Web Content Scanner) : https://dirb.sourceforge.net/
@@ -300,6 +315,15 @@
     - Cluster Search Engine : https://search.carrot2.org/#/search/web
     - Search files in open Drives and Clouds : https://www.dedigger.com/
     - Search files in Buckets : https://buckets.grayhatwarfare.com
+    - Search files in public FTPs : https://www.searchftps.net/
+    - Art / Creativity search engine : https://search.creativecommons.org/
+    - Art Encyclopedia : http://www.artcyclopedia.com/
+    - ZorexEye : https://zorexeye.com/
+    - Similar Websites : https://www.similarsites.com/
+    - Wikileaks search engine : https://search.wikileaks.org/
+    - Scientific litterature search engine : https://www.semanticscholar.org/
+    - Scientific litterature search engine : https://www.scienceopen.com/
+    - OnlyFans search engine : https://onlysearch.co/
 
   - <i>SEARCH ENGINES BY REGION / COUNTRY </i>
     - Arabic : http://www.arabo.com/
@@ -324,6 +348,7 @@
   - <i>OTHERS</i>
     - CyberMap : https://cybermap.kaspersky.com/
     - CyberMapStats : https://cybermap.kaspersky.com/stats
+    - WolframAlpha (complete calculation tool): https://www.wolframalpha.com/
    
   - <i>ARCHIVES</i>
     - Wayback Machine : https://web.archive.org
@@ -371,6 +396,7 @@
     - National Library of Medicine : https://pubmed.ncbi.nlm.nih.gov
     - Drugs.com (prescription drug info) : https://www.drugs.com/
     - DrugBank (drugs knowledge base) : https://go.drugbank.com
+    - Chemical Book : https://www.chemicalbook.com/
 
 <br> 
 
@@ -455,6 +481,8 @@
   - HackTheBox (OSINT rooms) : https://www.hackthebox.com/
   - GeoGuessr : https://www.geoguessr.com/
   - Sourcing Games : https://sourcing.games/
+  - Kase Scenarios : https://kasescenarios.com/
+  - CTF collection : https://github.com/apsdehal/awesome-ctf
 
 <br>
 
@@ -466,6 +494,12 @@
   - CyberSecurity Community (Reddit) : https://www.reddit.com/r/cybersecurity/
   - CyberSecurity Advice Community (Reddit) : https://www.reddit.com/r/CyberSecurityAdvice/
   - Hacking Community (Reddit) : https://www.reddit.com/r/hacking/
+  - Interpol - Help us find : https://www.interpol.int/What-you-can-do/Help-us-find
+  - Edangered Child Alert Program : https://www.fbi.gov/wanted/ecap
+  - Europe's most wanted : https://eumostwanted.eu/
+  - FBI most wanted : https://www.fbi.gov/wanted
+  - DEA fugitives : https://www.dea.gov/fugitives
+  - National Crime Agency : https://www.nationalcrimeagency.gov.uk/most-wanted
 
 <br>
 

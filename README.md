@@ -45,6 +45,9 @@
   - paranoid_ch1ck OSINT Cheat Sheet : https://start.me/p/rxRbpo/cti
   - CybDetective (small cheatsheet) : https://cybdetective.com/
   - OSINT Toolkit : https://one-plus.github.io/index.html
+  - Awesome-OSINT : https://github.com/jivoi/awesome-osint
+  - HackYourMom (OSINT ressources) : https://hackyourmom.com/en/osvita/knygy-osint/
+  - IntelTechniques (OSINT ressources) : https://inteltechniques.com/book1.html
       
 <br>
 
@@ -127,6 +130,7 @@
     - Google Lens / Reverse Google Search (search for image apparition on the Internet) : https://lens.google.com/
     - Yandex Image (search for image apparition on the Internet) : https://yandex.com/images/
     - TinEye (search for image apparition on the Internet) : https://tineye.com/
+    - FaceCheck (search for a face on the Internet) : https://facecheck.id/
       
   - <i>STEGANALYSIS</i>
     - Aperisolve (complete steganalysis tool) : https://www.aperisolve.com/
@@ -309,6 +313,8 @@
     - MetaGer : https://metager.org/
     - DuckDuckGo : https://duckduckgo.com/
     - Qwant : https://www.qwant.com/
+    - Brave : https://search.brave.com/
+    - Mojeek : https://www.mojeek.com/
     - Cached Pages (get cached page of any URL) : http://www.cachedpages.com/
     - Ahmia (search hidden services on the Tor network) : https://ahmia.fi/
     - OCCRP Search : https://data.occrp.org/
@@ -316,6 +322,7 @@
     - Search files in open Drives and Clouds : https://www.dedigger.com/
     - Search files in Buckets : https://buckets.grayhatwarfare.com
     - Search files in public FTPs : https://www.searchftps.net/
+    - Search files on the Web : https://filepursuit.com/
     - Art / Creativity search engine : https://search.creativecommons.org/
     - Art Encyclopedia : http://www.artcyclopedia.com/
     - ZorexEye : https://zorexeye.com/
@@ -469,6 +476,9 @@
   - osint.sh : https://namechk.com/
   - IFU App (OSINT Losena Ltd.) : https://ifu.app
   - synapsint : https://synapsint.com/
+  - Snoop : https://github.com/snooppr/snoop/
+  - Sierra (Mapping) : https://phantomhelix.com/
+  - Handly tools : https://it-tools.tech/
 
 <br>
 
@@ -483,6 +493,7 @@
   - Sourcing Games : https://sourcing.games/
   - Kase Scenarios : https://kasescenarios.com/
   - CTF collection : https://github.com/apsdehal/awesome-ctf
+  - QuizTime : https://x.com/quiztime
 
 <br>
 
@@ -500,6 +511,7 @@
   - FBI most wanted : https://www.fbi.gov/wanted
   - DEA fugitives : https://www.dea.gov/fugitives
   - National Crime Agency : https://www.nationalcrimeagency.gov.uk/most-wanted
+  - OWASP CheatSheetSeries : https://cheatsheetseries.owasp.org/index.html
 
 <br>
 

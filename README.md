@@ -71,6 +71,7 @@
     - Ifu (username checker): https://ifu.app
     - Ignorant (check if a phone number is registered on social media platforms): https://github.com/megadose/ignorant
     - Instant Username (username checker): https://instantusername.com
+    - Jev Social (local-first agent that searches Instagram, TikTok, and LinkedIn in the user's Chrome and streams evidence plus a cited report): https://github.com/socai-io/jev-social
     - Lullar (find public profiles using a name, Gmail address, or username): https://com.lullar.com/
     - Maigret (find a specific username across multiple media platforms): https://github.com/soxoj/maigret/
     - Namechk (username checker): https://namechk.com/

@@ -84,8 +84,7 @@
     - Snoosnoop (get complete insights and analytics about a Reddit account): https://snoosnoop.com
     - Steam User Info (Steam profile worth and account calculator): https://steamdb.info/calculator/
     - That's Them (search for public person directory information): https://thatsthem.com
-    - TikTok Tools - TikTok user finder, you can find any tiktok user region & info, watch stories, reposts, highlights, and other tools for tiktok: https://omar-thing.site
-    - TikTok Info Fetcher (fetch TikTok user, video, trace, or link information): https://tiktok.einzzcookie.org/
+    - TikTok Info Fetcher (fetch TikTok user, video, trace, or link information, live user monitoring): https://einzzcookie.org/
     - Tinder User Profile (direct web link to a Tinder user profile): https://www.gotinder.com/@{USERNAME_HERE}
     - Tracker.gg (Gamertag profile and statistic lookup): https://tracker.gg/
     - Twstalker (view and analyze Twitter profiles without an account): https://twstalker.com/

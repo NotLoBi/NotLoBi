@@ -76,6 +76,7 @@
     - Maigret (find a specific username across multiple media platforms): https://github.com/soxoj/maigret/
     - Namechk (username checker): https://namechk.com/
     - NameMC (Minecraft username lookup): https://namemc.com/
+    - Opsis (find accounts linked to an email address, username, or domain across 1000+ sources): https://useopsis.com/
     - Prude (find person/username appearances across multiple media platforms): https://github.com/NotLoBi/Prude/
     - Roblox OSINT Tool (Bloxsint) (Roblox account intelligence gathering): https://github.com/phishontop/bloxsint
     - Scribd VPDFS (Scribd document download utility): https://scribd.vpdfs.com/

@@ -108,6 +108,7 @@
     - Breached databases list : https://nuclearleaks.com/
     - Compromised emails : https://ashley.cynic.al/
     - Find mails in leaked databases : https://namescan.io/freeemailcompromisedcheck
+    - ProwlCat searches local breach dumps for emails, domains, IPs, CIDRs, and text : https://github.com/m0s-s/ProwlCat
    
   - <i>DEEP/DARK WEB</i>
     - DarkDump (query the deeep web) : https://github.com/josh0xA/darkdump

@@ -69,6 +69,7 @@
     - I Know Where Your Cat Lives (locate public Instagram posts utilizing the #cat hashtag): https://iknowwhereyourcatlives.com/
     - ID Crawl (find public information on individuals in America): https://www.idcrawl.com/
     - Ifu (username checker): https://ifu.app
+    - IGDataHub (dated follower-count history for the public Instagram accounts it tracks, plus a free side-by-side compare of 2,800+ accounts): https://igdatahub.com/
     - Ignorant (check if a phone number is registered on social media platforms): https://github.com/megadose/ignorant
     - Instant Username (username checker): https://instantusername.com
     - Jev Social (local-first agent that searches Instagram, TikTok, and LinkedIn in the user's Chrome and streams evidence plus a cited report): https://github.com/socai-io/jev-social

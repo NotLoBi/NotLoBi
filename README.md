@@ -87,6 +87,7 @@
     - Steam User Info (Steam profile worth and account calculator): https://steamdb.info/calculator/
     - That's Them (search for public person directory information): https://thatsthem.com
     - TikTok Info Fetcher (fetch TikTok user, video, trace, or link information, live user monitoring): https://einzzcookie.org/
+    - TKMetrics (followers, engagement rate, average plays and top videos of public TikTok accounts): https://tkmetrics.com/
     - Tinder User Profile (direct web link to a Tinder user profile): https://www.gotinder.com/@{USERNAME_HERE}
     - Tracker.gg (Gamertag profile and statistic lookup): https://tracker.gg/
     - Twstalker (view and analyze Twitter profiles without an account): https://twstalker.com/

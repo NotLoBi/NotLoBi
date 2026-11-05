@@ -83,6 +83,7 @@
     - Scribd VPDFS (Scribd document download utility): https://scribd.vpdfs.com/
     - Sherlock (find a specific username across multiple media platforms): https://github.com/sherlock-project/sherlock
     - Skymem (corporate email finder tool): https://www.skymem.info
+    - SnapDataHub (find public Snapchat creators by keyword, with subscriber history and Spotlight views): https://snapdatahub.com/
     - Snoosnoop (get complete insights and analytics about a Reddit account): https://snoosnoop.com
     - Steam User Info (Steam profile worth and account calculator): https://steamdb.info/calculator/
     - That's Them (search for public person directory information): https://thatsthem.com

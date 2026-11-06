@@ -92,6 +92,7 @@
     - Tinder User Profile (direct web link to a Tinder user profile): https://www.gotinder.com/@{USERNAME_HERE}
     - Tracker.gg (Gamertag profile and statistic lookup): https://tracker.gg/
     - Twstalker (view and analyze Twitter profiles without an account): https://twstalker.com/
+    - twtData (export followers, tweets, lists and Spaces of public X accounts to CSV, plus a free X trends archive by location): https://twtdata.com/
     - UserSearch (username checker): https://usersearch.org
     - Vinted User Info (fetch public Vinted user details via API): https://www.vinted.fr/api/v2/users/{USERID_HERE}
     - WhatsMyName (find a username across multiple media platforms): https://whatsmyname.app/

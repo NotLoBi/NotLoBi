@@ -111,6 +111,8 @@
     - Compromised emails : https://ashley.cynic.al/
     - Find mails in leaked databases : https://namescan.io/freeemailcompromisedcheck
     - ProwlCat searches local breach dumps for emails, domains, IPs, CIDRs, and text : https://github.com/m0s-s/ProwlCat
+    - Have I Been Ransomed? (find mails, phones or companies leaked by ransomware gangs, stealers or breaches) : https://haveibeenransom.com/
+    - Breach House (search ransomware and breach posts, with source and discovery date) : https://breach.house/
    
   - <i>DEEP/DARK WEB</i>
     - DarkDump (query the deeep web) : https://github.com/josh0xA/darkdump

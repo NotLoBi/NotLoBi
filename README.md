@@ -273,6 +273,7 @@
     - Domain complete informations : https://domainhelp.com/
     - VirusTotal : https://www.virustotal.com/
     - URLScan : https://urlscan.io/search
+    - ScanMalware (analyses URLs in isolated environments, AI classifies suspicious pages by scam type; search past scans by domain, IP, ASN, JARM or favicon hash) : https://scanmalware.com/
     - FOFA : http://fofa.info
     - PublicWWW : http://publicwww.com
     - CRT http://crt.sh
